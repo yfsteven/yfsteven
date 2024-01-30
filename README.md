@@ -19,4 +19,4 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[Linkedin](www.linkedin.com/in/yan-chao-feng-387b63267)
+[linkedin]: www.linkedin.com/in/yan-chao-feng-387b63267
