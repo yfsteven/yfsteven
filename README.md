@@ -5,7 +5,7 @@
  
  - [Rock Paper Scissors](https://github.com/yfsteven/RockPaperScissors)
  
- - [Battleship](https://github.com/yfsteven/Battleship)
+ - [Battleship (Work in Progress)](https://github.com/yfsteven/Battleship)
 
 
 <b>React</b>
