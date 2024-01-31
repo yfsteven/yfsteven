@@ -9,6 +9,8 @@
  
  - [Battleship (Work in Progress)](https://github.com/yfsteven/Battleship)
 
+ - [Library (Work in Progress)](https://github.com/yfsteven/Library)
+
 
 <b>React</b>
  - [Line messaging clone with Firebase](https://github.com/yfsteven/line-clone)
