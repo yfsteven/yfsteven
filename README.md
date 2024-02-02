@@ -9,7 +9,7 @@
  
  - [Battleship (Work in Progress)](https://github.com/yfsteven/Battleship)
 
- - [Library (Work in Progress)](https://github.com/yfsteven/Library)
+ - [Library](https://github.com/yfsteven/Library)
 
 
 <b>React</b>
