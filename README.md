@@ -15,7 +15,7 @@
 <b>React</b>
  - [Line messaging clone with Firebase](https://github.com/yfsteven/line-clone)
 
- - [Rick and Morty Memory Card Game (Work in Progress)](https://github.com/yfsteven/RickandMortyMemoryCardGame)
+ - [Rick and Morty Memory Card Game](https://github.com/yfsteven/RickandMortyMemoryCardGame)
 
 
 <b>Special</b>
