@@ -13,7 +13,7 @@
 
  - [Mini Message Board (NodeJs)](https://github.com/yfsteven/Mini-Message_Board)
 
- - [Express Local Website (Work in Progress)](https://github.com/yfsteven/express-locallibrary-tutorial)
+ - [Express Local Website](https://github.com/yfsteven/express-locallibrary-tutorial)
 
 
 <b>React</b>
