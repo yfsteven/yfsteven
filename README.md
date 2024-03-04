@@ -23,7 +23,7 @@
 
 
 <b>Special</b>
- - [A Japanese monolingual web app dictionary for advanced learners with integrated Anki support (Work in Progress)](https://github.com/yfsteven/Jibiki)
+ - [Jibiki - Monolingual dictionary (Work in Progress)](https://github.com/yfsteven/Jibiki)
 
 <h2> 🤳 Connect with me:</h2>
 
