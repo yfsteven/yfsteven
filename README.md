@@ -32,4 +32,4 @@
 
 [<img align="left" alt="YanChaoFeng | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: [Linkedin](www.linkedin.com/in/yan-chao-feng)
+[linkedin]: https://linkedin.com/in/yan-chao-feng
