@@ -18,7 +18,7 @@
 
  - [Express Local Website](https://github.com/yfsteven/express-locallibrary-tutorial)
 
- - [Inventory Application](https://github.com/yfsteven/Inventory-Application)
+ - [Inventory Application (Work in Progress)](https://github.com/yfsteven/Inventory-Application)
 
 
 <b>React</b>
