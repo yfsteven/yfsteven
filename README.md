@@ -18,6 +18,8 @@
 
  - [Express Local Website](https://github.com/yfsteven/express-locallibrary-tutorial)
 
+ - [Inventory Application](https://github.com/yfsteven/Inventory-Application)
+
 
 <b>React</b>
  - [Line messaging clone with Firebase](https://github.com/yfsteven/line-clone)
