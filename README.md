@@ -10,8 +10,9 @@
  - [Battleship (Work in Progress)](https://github.com/yfsteven/Battleship)
 
  - [Library](https://github.com/yfsteven/Library)
+ <b>NodeJs</b>
 
- - [Mini Message Board (NodeJs)](https://github.com/yfsteven/Mini-Message_Board)
+ - [Mini Message Board](https://github.com/yfsteven/Mini-Message_Board)
 
  - [Express Local Website](https://github.com/yfsteven/express-locallibrary-tutorial)
 
@@ -29,4 +30,4 @@
 
 [<img align="left" alt="YanChaoFeng | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: www.linkedin.com/in/yan-chao-feng
+[linkedin]: [Linkedin](www.linkedin.com/in/yan-chao-feng)
