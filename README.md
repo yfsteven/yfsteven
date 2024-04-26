@@ -31,7 +31,7 @@
 
 - [Automate the Boring Stuff with Python](https://github.com/yfsteven/automate-the-boring-stuff-with-python)
 
-- [Japanese Anki Cards Automation](https://github.com/yfsteven/Japanese-Anki-Cards-Automation)
+- [Japanese Anki Cards Automation with AI](https://github.com/yfsteven/Japanese-Anki-Cards-Automation)
   
 
 <b>Special</b>
