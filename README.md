@@ -32,10 +32,9 @@
 - [Automate the Boring Stuff with Python](https://github.com/yfsteven/automate-the-boring-stuff-with-python)
 
 - [Japanese Anki Cards Automation with AI](https://github.com/yfsteven/Japanese-Anki-Cards-Automation)
-  
 
-<b>Special</b>
- - [Jibiki - Monolingual Japanese Dictionary (Work in Progress)](https://github.com/yfsteven/Jibiki)
+- [YouTube Clip Maker - Create YT Shorts](https://github.com/yfsteven/YouTube-Clip-Maker)
+  
 
 <h2> 🤳 Connect with me:</h2>
 
