@@ -33,7 +33,7 @@
 
 - [Japanese Anki Cards Automation with AI](https://github.com/yfsteven/Japanese-Anki-Cards-Automation)
 
-- [YouTube Clip Maker - Create YT Shorts](https://github.com/yfsteven/YouTube-Clip-Maker)
+- [YouTube Clip Maker - Create YT Shorts Business](https://github.com/yfsteven/YouTube-Clip-Maker)
   
 
 <h2> 🤳 Connect with me:</h2>
