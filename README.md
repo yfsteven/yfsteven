@@ -34,6 +34,8 @@
 - [Japanese Anki Cards Automation with AI](https://github.com/yfsteven/Japanese-Anki-Cards-Automation)
 
 - [YouTube Clip Maker - Create YT Shorts Business](https://github.com/yfsteven/YouTube-Clip-Maker)
+
+- [Twitter(X) Bot - Tweets(Post) a Japanese Word Daily](https://github.com/yfsteven/twitterbot) 
   
 
 <h2> 🤳 Connect with me:</h2>
