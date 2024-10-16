@@ -35,7 +35,12 @@
 
 - [YouTube Clip Maker - Create YT Shorts Business](https://github.com/yfsteven/YouTube-Clip-Maker)
 
-- [Twitter(X) Bot - Tweets(Post) a Japanese Word Daily](https://github.com/yfsteven/twitterbot) 
+- [Twitter(X) Bot - Tweets(Post) a Japanese Word Daily](https://github.com/yfsteven/twitterbot)
+
+- [IMAutomation](https://github.com/yfsteven/IMAutomation)
+
+- [EzKindle](https://github.com/yfsteven/EzKindle)
+
   
 
 <h2> 🤳 Connect with me:</h2>
