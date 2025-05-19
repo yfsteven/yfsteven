@@ -6,8 +6,6 @@
  - [Rock Paper Scissors](https://github.com/yfsteven/RockPaperScissors)
 
  - [Weather App](https://github.com/yfsteven/WeatherApp)
- 
- - [Battleship (Work in Progress)](https://github.com/yfsteven/Battleship)
 
  - [Library](https://github.com/yfsteven/Library)
  
@@ -18,7 +16,6 @@
 
  - [Express Local Website](https://github.com/yfsteven/express-locallibrary-tutorial)
 
- - [Inventory Application (Work in Progress)](https://github.com/yfsteven/Inventory-Application)
 
 
 <b>React</b>
@@ -39,7 +36,6 @@
 
 - [IMAutomation](https://github.com/yfsteven/IMAutomation)
 
-- [EzKindle](https://github.com/yfsteven/EzKindle)
 
   
 
