@@ -1,4 +1,4 @@
-<h1>Hi, I'm Yan Chao! <br/><p>CS Major at City Tech</p><p>Programmer from New York City</p></h1>
+<h1>Hi, I'm Yan Chao! <br/><p>CS Major at City Tech</p><p>Programmer from Brooklyn College</p></h1>
 
 <h2>👨‍💻 Projects:</h2>
  <b>JavaScript</b>
